@@ -13,3 +13,6 @@ This is a simple console-based Numbwe Guessing Game written in Java.
        Too high! Try again.
        >63
        Congratulations! You guessed the number!
+
+       ## Program Output Screenshot
+       ![Output Screenshot](smple screenshot.jpg)
