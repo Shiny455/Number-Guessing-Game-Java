@@ -1,5 +1,5 @@
 # Number Guessing Game(Java)
-This is a simple console-based Numbwe Guessing Game written in Java.
+This is a simple console-based Number Guessing Game written in Java.
       The program generates a random number.
       The player has to guess the number.
       It will show hints(higher/lower) until the correct guess.
