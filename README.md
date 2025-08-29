@@ -14,5 +14,5 @@ This is a simple console-based Number Guessing Game written in Java.
        >63
        Congratulations! You guessed the number!
 
-       ##  Output Screenshot!
-       [Output Screenshot](smple screenshot.jpg)
+       ##  Output Screenshot
+       ![Output Screenshot](smple screenshot.jpg)
