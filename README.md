@@ -15,4 +15,4 @@ This is a simple console-based Number Guessing Game written in Java.
        Congratulations! You guessed the number!
 
        ##  Output Screenshot
-       ![Output Screenshot](smple%20screenshot.jpg)
+       ![Output Screenshot](screenshot.jpg)
